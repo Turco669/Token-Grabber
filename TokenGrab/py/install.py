@@ -3,7 +3,7 @@ import os
 modules = [
     "requests",
     "Crypto",
-    "pycryptodomex",
+    "pycryptodome",
     "pywin32",
     "tkinter",
     "pyinstaller"
